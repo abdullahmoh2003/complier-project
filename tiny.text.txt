@@ -1,0 +1,8 @@
+read x;
+if x < 5 then
+  x := x - 1;
+  repeat
+    write x;
+    x := x + 1
+  until x = 5;
+end

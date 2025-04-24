@@ -1,0 +1,26 @@
+1: ID, name= x
+1: ;
+2: reserved word: if
+2: ID, name= x
+2: reserved word: <
+2: NUM, Val= 5
+2: reserved word: then
+3: ID, name= x
+3: reserved word: :=
+3: ID, name= x
+3: reserved word: -
+3: NUM, Val= 1
+4: reserved word: repeat
+5: reserved word: write
+5: ID, name= x
+5: ;
+6: ID, name= x
+6: reserved word: :=
+6: ID, name= x
+6: reserved word: +
+6: NUM, Val= 1
+7: reserved word: until
+7: ID, name= x
+7: reserved word: =
+7: NUM, Val= 5
+8: reserved word: end
